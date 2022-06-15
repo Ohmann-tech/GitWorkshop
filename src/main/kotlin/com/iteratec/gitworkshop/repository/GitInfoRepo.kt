@@ -12,7 +12,7 @@ class GitInfoRepo {
                 "Git Commit Amend",
                 "git commit --amend",
                 "Allows the user to modify the last committed commit."
-        );
+        )
     }
 
     fun getInfoRebase(): CommandDescription
